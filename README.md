@@ -13,6 +13,6 @@ G11 好rrrrr
 
 <!-- 請記得修改下方的相對路徑及連結 -->
 
-- [投影片](./G25_slides.pdf)
+- [投影片](./G11_slides.pdf)
 - [書面報告](./G25_report.pdf)  
 - [專案網站](https://competent-shannon-f02fa0.netlify.app/)
