@@ -1,0 +1,15 @@
+---
+title: 歌詞情緒分析
+author: R package build
+date: '2021-06-13'
+slug: 歌詞情緒分析
+categories: []
+tags: []
+archives: '2021'
+---
+* 最正面歌曲
+![](images/Most Positive Songs.png)
+* 最負面歌曲
+![](images/Most Negative Songs.png)
+* 百大金曲十種情緒分析
+![](images/ten emotions analysis.png)

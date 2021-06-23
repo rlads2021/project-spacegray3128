@@ -1,0 +1,15 @@
+---
+title: "歌曲正向比率"
+author: "R package build"
+date: '2021-06-12'
+slug: 50年歌曲正負向用詞
+categories: []
+tags: []
+archives: '2021'
+---
+* 分時代歌名正向比率 (5 decades Billboard hot 100)
+![](images/positive_ratio_by_decade_title.png)
+* 分時代歌詞正向比率 (5 decades Billboard hot 100)
+![](images/positive_ratio_by_decade.png)
+* 分年度歌詞正向比率 (50 years Billboard hot 100)
+![](images/positive_ratio_by_yaer.png)

@@ -1,0 +1,15 @@
+---
+title: "華語/西洋歌手正負頻率比較"
+author: "R package build"
+date: '2021-06-11'
+slug: 西洋歌手用詞頻率及正負用詞比較
+categories: []
+tags: []
+archives: '2021'
+---
+* 華語歌手正負頻率 (kkbox 2018-2021)
+![](images/singers.png)
+* 西洋歌手正負頻率 (kkbox 2018-2021)
+![](images/BillBoard.png)
+* 華語/西洋歌詞正負頻率 (kkbox 2018-2021)
+![](images/Rplot.png)

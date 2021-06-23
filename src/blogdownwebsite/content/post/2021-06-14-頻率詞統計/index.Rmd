@@ -1,0 +1,23 @@
+---
+title: "頻率詞統計"
+author: "R package build"
+date: '2021-06-14'
+slug: 頻率詞統計
+categories: []
+tags: []
+archives: '2021'
+---
+* 歌名頻率詞統計 (5 decades Billboard hot 100)
+![](images/timeless_word_title.png)
+* 文字雲
+![](images/all_time_wordcloud_title.jpeg)
+* 歌詞頻率詞統計 (5 decades Billboard hot 100)
+![](images/timeless_word.png)
+* 文字雲
+![](images/all_time_wordcloud.jpeg)
+* 百大金曲頻率詞統計 (2006-2020)
+![](images/Words Frequency.png)
+* 不同時代的Unique Words (by TF-IDF)
+![](images/TF-IDF.png)
+* 不同時代的歌詞長度 (已剔除stop words)
+![](images/words_count.png)
